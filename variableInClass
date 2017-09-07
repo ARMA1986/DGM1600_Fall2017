@@ -1,0 +1,17 @@
+*/
+Access modifier are either private or public
+Some Varaible Types are string, int and float;
+
+Examples:
+
+private float bankAccount = 250.500f;
+private string name = "";
+private int socialSecurity = 0;
+public string economicalStatus = (poor, average, wealthy);
+public int savingAccount = 0;
+
+the breakdown of the examples are:
+
+access modifier, variable type, variable name, =, value, ;
+
+/*

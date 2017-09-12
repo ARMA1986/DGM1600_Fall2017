@@ -1,5 +1,3 @@
 branch3 file:
 
-something something
-test	test
-random	random
+ok I think I’m done

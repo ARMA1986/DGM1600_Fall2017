@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-branch3 file:
+branch1 file:
 
-something something
-test	test
-random	random
+I wonder wonder

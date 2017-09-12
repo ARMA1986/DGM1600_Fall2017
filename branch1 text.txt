@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 branch3 file:
 
-ok I think I’m done
+something something
+test	test
+random	random

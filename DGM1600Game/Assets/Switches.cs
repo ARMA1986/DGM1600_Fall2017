@@ -4,6 +4,15 @@ using UnityEngine;
 
 public class Switches : MonoBehaviour {
 
+// Switches are a series of conditionals that evaluate the current state of a variable to
+// match a case statement. If the case statement matches the variable, the function enclosed
+// on that case will take place and then the application ends with the use of the break command. 
+// If the first case doesn't match the variable, then it moves to the next statement. All statements
+// are processed in order, until one matches and then it breaks. If there are no matches, the switch
+// statement uses a default case, which assumes that all other entries that don't match any of the
+// previous cases; this default clause will display the function within its clause and then end the
+// application.
+
 	public string townCenter;
 	public string phoneProvider;
 	public int age;
